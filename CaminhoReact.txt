@@ -1,0 +1,9 @@
+Primeiro passo: mantenha instalado e atualizado o node.js na versão lts e também o npm.
+Segundo: Baixe o android studio e crie um celular para emular
+Terceiro: Tenha o gitbash baixado
+Quarto: Entre no CMD da pasta documentos ou entre pelo visual code usando o terminal e colocando no bash e digite os seguintes comandos:
+npm i -g expo-cli
+npx create-expo-app (nome-do-app -t) depois escolha o blank typescript.
+Quinto: Após a criação da pasta, escreva cd (nomedapasta)
+Após isso, abra o android studio e bote o celular pra funcionar e instale dentro dele o expo go ou dentro do comando coloque npm expo run.
+Por ultimo: Coloque no comando: npx expo start para botar pra funcionar.
